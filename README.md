@@ -60,7 +60,7 @@
 
 | Deliverable | Due Date | Status |
 |-------------|----------|--------|
-| Project Charter & Data Acquisition Plan | End of Week 5 | ⬜ Not Started |
+| Project Charter & Data Acquisition Plan | End of Week 5 | ⬜ Started |
 | Exploratory Analysis & Data Preparation Report | End of Week 9 | ⬜ Not Started |
 | Peer Review 1 (Data Readiness Check) | Week 10 | ⬜ Not Started |
 | Model Development & Evaluation Report | End of Week 12 | ⬜ Not Started |
