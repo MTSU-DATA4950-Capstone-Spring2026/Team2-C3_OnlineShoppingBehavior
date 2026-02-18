@@ -1,8 +1,8 @@
-# [Project Name] - Team [X]
+# Project 2.3 Online Shopping Behavior: Will This Visitor Buy? - Team 2
 
 **DATA 4950 Data Science Capstone | Spring 2026**
 
-**Team Members:** [List your names here]
+**Team Members:** Joel Cannon & Colman Connolly
 
 ---
 
@@ -14,10 +14,10 @@
 
 | Item | Description |
 |------|-------------|
-| **Source** | [Where did you get the data?] |
-| **Size** | [How many rows and columns?] |
-| **Target Variable** | [What are you predicting?] |
-| **Task Type** | [Classification / Regression] |
+| **Source** | https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset |
+| **Size** | 12330 Instances, 17 Features|
+| **Target Variable** | Revenue |
+| **Task Type** | Classification |
 
 ## Repository Structure
 
